@@ -13,4 +13,4 @@ Engineers would uses the C# application to search for specific test results stor
 
 --- 
 
-This programme was the first steps within the company to digitise a previously unefficient task. After every product test, the information within these pages would be manually updated by hand and then later entered into a database. With this GUI, granted the user has filled the required fields of entry, the data will immediately be sent into the database using SQL queries within SQL Server. Whilst not all pages have been included, the ones that have been included can be used to prove the scalability of the project. 
+This programme was the first steps within the company to digitise a previously unefficient task. After every product test, the information within these pages would be manually updated by hand and then later entered into a database. Whilst not all test pages have been included, the ones that have been included can be used to prove the scalability of the project. 
