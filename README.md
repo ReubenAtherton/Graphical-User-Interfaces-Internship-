@@ -6,7 +6,7 @@ This project was completely independent and is the result of self-teaching. Comp
 ## Overall Combined Utility
 
 ### Uploading to Database
-A technician would perform a product test on the shop and enter the results into these pre-made GUI (Python) sheets. When submitted, the data is then sent to a normalised SQL Server database.
+A technician would perform a product test on the shop and enter the results into these pre-made GUI (Python) sheets. When submitted, the data is then sent to a normalised SQL Server database. Allows for much more efficient recording of data
 
 ### Searching Database
 Engineers would uses the C# application to search for specific test results stored within the database. Enables rapid, organised data collection.
