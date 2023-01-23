@@ -9,3 +9,5 @@ This project allows engineers on shop floor to immediately upload product tests 
 ### Disclaimer 
 
 Company sensitive information has been removed for privacy reasons but you can still see the general design of the interface.
+
+There is still improvements to be made such as organisation using OOP
