@@ -1,6 +1,6 @@
 # InternshipGUI-Python
 
-This project was completely independent and is the result of self-teaching. Completing this project massively developed my Python, SQL and C# skills whilst providing valuable insight into the GUI developement process. I understand there are many improvements to be made and I aim to develop my OOP skills in the future. 
+This project was completely independent and is the result of self-teaching. Completing this project massively developed my Python, SQL and C# skills whilst providing valuable insight into the GUI developement process.
 
 
 ## Overall Combined Utility
