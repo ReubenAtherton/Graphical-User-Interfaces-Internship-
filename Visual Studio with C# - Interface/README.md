@@ -4,7 +4,7 @@ Inlcudes only the screenshot of the final product. I have not yet managed to add
 
 ### Functionality
 
-This project allowed engineers to search and retrieve information stored on the database displaying the contents in the central form as shown in the screenshot.
+This project allowed engineers to search and retrieve information stored within the database displaying the contents in the central form as shown in the screenshot.
 
 User enters the product's serial number in the drop down menu (auto-fill has been added to help user). This initialises the product in question, now you need to choose which test you want to search. Enter the test name in the following combo box. A test-specific form will then be displayed below containing all the information about that test for that product.  
 
